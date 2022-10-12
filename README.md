@@ -1,2 +1,2 @@
-# Ca-a-Palavra-JS
+# Caca-Palavra-JS
 Caca palavra feito em JS
